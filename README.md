@@ -4,7 +4,7 @@
 - 🔭 I'm a Frontend Developer from Istanbul. 👨‍💻
 - 👨‍💻 I'm currently developing new projects to improve my JavaScript skills. 🔭
 - 🧩 Soon will start learning React 🔥
-- 📌 Hobbies: 🎧 Music, 🌱 Plants, 📺 Sci-Fi movies
+- 📌 Hobbies: 📙 Reading, 🎧 Music, 🌱 Plants, 📺 Sci-Fi movies
 - 📫 Reach me by using the link badges below ⬇
 #
 ![freeCodeCamp points](https://img.shields.io/freecodecamp/points/fcc961b8332-52b0-4792-b680-4e9a6edeb60a?color=green&logo=freeCodeCamp)
