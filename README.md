@@ -1,4 +1,3 @@
-
 # Hello! I'm Serhat Bek 👋
 
 - 🔭 I'm a Frontend Developer from Istanbul. 👨‍💻
