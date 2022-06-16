@@ -2,7 +2,6 @@
 
 - 🔭 I'm a Frontend Developer from Istanbul. 👨‍💻
 - 👨‍💻 I'm currently developing new projects to improve my JavaScript skills. 🔭
-- 🧩 Soon will start learning React 🔥
 - 📌 Hobbies: 📙 Reading, 🎧 Music, 🌱 Plants, 📺 Sci-Fi movies
 - 📫 Reach me by using the link badges below ⬇
 #
