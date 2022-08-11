@@ -1,7 +1,7 @@
 # Hello! I'm Serhat Bek 👋
 
 - 🔭 I'm a Frontend Developer from Istanbul. 👨‍💻
-- 👨‍💻 I'm currently learning React developing new projects to improve my React/JavaScript skills. 🔭
+- 👨‍💻 I'm currently learning React and developing new projects to improve my React/JavaScript skills. 🔭
 - 📌 Hobbies: 📙 Reading, 🎧 Music, 🌱 Plants, 📺 Sci-Fi movies
 - 📫 Reach me by using the link badges below ⬇
 #
