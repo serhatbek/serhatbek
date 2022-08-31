@@ -4,8 +4,8 @@
 - 👨‍💻 I'm currently learning React and developing new projects to improve my React/JavaScript skills. 🔭
 - 📌 Hobbies: 📙 Reading, 🎧 Music, 🌱 Plants, 📺 Sci-Fi movies
 - 📫 Reach me by using the link badges below ⬇
-#
-![freeCodeCamp points](https://img.shields.io/freecodecamp/points/fcc961b8332-52b0-4792-b680-4e9a6edeb60a?color=green&logo=freeCodeCamp)
+
+
 
 
 ## Tech Stack & Tools
