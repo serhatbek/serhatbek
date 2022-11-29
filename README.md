@@ -10,7 +10,7 @@
 
 ## Tech Stack & Tools
 
-- #### HTML | CSS | SCSS | JavaScript 
+- #### HTML | CSS | SCSS | JavaScript | Nunjucks | React
 - #### Notion | VS Code | Photoshop | Git & GitHub 
 
 
