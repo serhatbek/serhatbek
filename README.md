@@ -14,7 +14,6 @@
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://serhatbek.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhatbek/)
 [![stackoverflow](https://img.shields.io/badge/stackoverflow-1DA1F2?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11076426/serhat-bek?tab=profile)
 
