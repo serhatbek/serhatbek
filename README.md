@@ -1,7 +1,7 @@
 # Hello! I'm Serhat Bek 👋
 
 - 🔭 I'm a Frontend Developer from Istanbul. 👨‍💻
-- 📌 Hobbies: 📙 Reading, 🎧 Music, 🌱 Plants, 📺 Sci-Fi movies
+- 📌 Hobbies: 📙 Reading, 🎧 Music, 🌱 Plants, 📺 Sci-Fi Movies
 - 📫 Reach me by using the link badges below ⬇
 
 
