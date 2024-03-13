@@ -11,10 +11,6 @@ src="https://img.shields.io/github/followers/serhatbek?logo=github&color=0891b2&
 
 - 🔭 I'm a self-taught frontend developer from Istanbul, Turkey. 
 - 📌 I like: 📙 Reading, 🎧 Music, 🌱 Plants, 📺 Sci-Fi Movies
-  
-
-<!--  <a href="https://www.github.com/serhatbek" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/serhatbek?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
 
 ### ⚡ Technologies
 
@@ -30,7 +26,6 @@ src="https://img.shields.io/github/followers/serhatbek?logo=github&style=for-the
 ![Gulp](https://img.shields.io/badge/-Gulp-000?&logo=Gulp)
 ![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) -->
-
 <!-- [![]()]() -->
 ### 🔎 Find Me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhatbek/)
