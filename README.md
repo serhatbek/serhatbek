@@ -39,7 +39,7 @@ src="https://img.shields.io/github/followers/serhatbek?logo=github&color=0891b2&
 ### 📕 Latest Blog Posts
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@serhat.bekk/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@serhat.bekk/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@serhat.bekk/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@serhat.bekk/1" alt="Recent Article 1"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@serhat.bekk/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@serhat.bekk/1" alt="Recent Article 1"> 
 
 ### 📊 GitHub Stats
 
