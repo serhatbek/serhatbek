@@ -17,15 +17,14 @@ src="https://img.shields.io/github/followers/serhatbek?logo=github&color=0891b2&
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=SASS)
+![Nunjucks](https://img.shields.io/badge/-Nunjucks-000?&logo=Nunjucks&logoColor=1E571E)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Nunjucks](https://img.shields.io/badge/-Nunjucks-000?&logo=Nunjucks)
 ![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=007396)
-
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+
 ![Gulp](https://img.shields.io/badge/-Gulp-000?&logo=Gulp)
-![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) -->
 <!-- [![]()]() -->
 ### 🔎 Find Me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhatbek/)
