@@ -5,9 +5,7 @@
   </a>
 </h1>
 
-<a href="https://www.github.com/serhatbek" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/serhatbek?logo=github&color=0891b2&labelColor=1c1917" /></a> <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=serhatbek.serhatbek)
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I'm a self-taught frontend developer from Istanbul, Turkey. 
 - 📌 I like: 📙 Reading, 🎧 Music, 🌱 Plants, 📺 Sci-Fi Movies
