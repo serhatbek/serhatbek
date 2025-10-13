@@ -7,7 +7,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I'm a self-taught frontend developer from Istanbul, Turkey. 
+- 🔭 Frontend developer from Istanbul, Turkey. 
 - 📌 I like: 📙 Reading, 🎧 Music, 🌱 Plants, 📺 Sci-Fi Movies
 
 ### ⚡ Technologies
