@@ -38,8 +38,9 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@serhat.bekk/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@serhat.bekk/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@serhat.bekk/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@serhat.bekk/1" alt="Recent Article 1"> 
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
+</p> -->
+
 
 
