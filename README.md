@@ -6,7 +6,8 @@
 </h1>
 
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> --> 
-
+<!-- [![]()]() -->
+<!-- 
 - 🔭 Frontend developer from Istanbul, Turkey. 
 - 📌 I like: 📙 Reading, 🎧 Music, 🌱 Plants, 📺 Sci-Fi Movies
 
@@ -23,7 +24,8 @@
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 
 ![Gulp](https://img.shields.io/badge/-Gulp-000?&logo=Gulp)
-<!-- [![]()]() -->
+
+
 ### 🔎 Find Me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhatbek/)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/serhatbek)
@@ -32,7 +34,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@serhat.bekk)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://bek-dev.hashnode.dev/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/serhatbek)
-
+ -->
 ### 📕 Latest Blog Posts
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@serhat.bekk/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@serhat.bekk/0" alt="Recent Article 0"> 
