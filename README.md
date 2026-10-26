@@ -1,9 +1,10 @@
-
+<!--
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Serhat+Bek....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+-->
 
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> --> 
 <!-- [![]()]() -->
@@ -35,10 +36,13 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://bek-dev.hashnode.dev/)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/serhatbek)
  -->
+
+ <!-- 
 ### 📕 Latest Blog Posts
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@serhat.bekk/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@serhat.bekk/0" alt="Recent Article 0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@serhat.bekk/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@serhat.bekk/1" alt="Recent Article 1"> 
+-->
 
 <!-- <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
